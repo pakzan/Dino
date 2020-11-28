@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/pakzan/Dino/static/js/main.a4fd95ae.chunk.js",
-    "main.js.map": "/pakzan/Dino/static/js/main.a4fd95ae.chunk.js.map",
-    "runtime-main.js": "/pakzan/Dino/static/js/runtime-main.9e6e8d45.js",
-    "runtime-main.js.map": "/pakzan/Dino/static/js/runtime-main.9e6e8d45.js.map",
-    "static/js/2.f322b13e.chunk.js": "/pakzan/Dino/static/js/2.f322b13e.chunk.js",
-    "static/js/2.f322b13e.chunk.js.map": "/pakzan/Dino/static/js/2.f322b13e.chunk.js.map",
-    "index.html": "/pakzan/Dino/index.html",
-    "static/js/2.f322b13e.chunk.js.LICENSE.txt": "/pakzan/Dino/static/js/2.f322b13e.chunk.js.LICENSE.txt"
+    "main.js": "/Dino/static/js/main.a4fd95ae.chunk.js",
+    "main.js.map": "/Dino/static/js/main.a4fd95ae.chunk.js.map",
+    "runtime-main.js": "/Dino/static/js/runtime-main.3e0d1616.js",
+    "runtime-main.js.map": "/Dino/static/js/runtime-main.3e0d1616.js.map",
+    "static/js/2.f322b13e.chunk.js": "/Dino/static/js/2.f322b13e.chunk.js",
+    "static/js/2.f322b13e.chunk.js.map": "/Dino/static/js/2.f322b13e.chunk.js.map",
+    "index.html": "/Dino/index.html",
+    "static/js/2.f322b13e.chunk.js.LICENSE.txt": "/Dino/static/js/2.f322b13e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e6e8d45.js",
+    "static/js/runtime-main.3e0d1616.js",
     "static/js/2.f322b13e.chunk.js",
     "static/js/main.a4fd95ae.chunk.js"
   ]
