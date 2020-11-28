@@ -2,7 +2,7 @@ import RigidBody from './rigidBody';
 import Animation from './animation';
 
 // statusInfo: [[frame inds], update interval(s)]
-class Object {
+class Obj {
     constructor(props) {
         const { type, statusInfo, status, pos, spd, acc, prev_t, colliderInfo } = props
         
@@ -55,4 +55,4 @@ class Object {
 
 }
  
-export default Object
+export default Obj
