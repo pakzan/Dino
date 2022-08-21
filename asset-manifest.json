@@ -1,17 +1,11 @@
 {
-  "files": {
-    "main.js": "/dino-game/static/js/main.df4b7e39.chunk.js",
-    "main.js.map": "/dino-game/static/js/main.df4b7e39.chunk.js.map",
-    "runtime-main.js": "/dino-game/static/js/runtime-main.312f30f9.js",
-    "runtime-main.js.map": "/dino-game/static/js/runtime-main.312f30f9.js.map",
-    "static/js/2.b6d0567d.chunk.js": "/dino-game/static/js/2.b6d0567d.chunk.js",
-    "static/js/2.b6d0567d.chunk.js.map": "/dino-game/static/js/2.b6d0567d.chunk.js.map",
-    "index.html": "/dino-game/index.html",
-    "static/js/2.b6d0567d.chunk.js.LICENSE.txt": "/dino-game/static/js/2.b6d0567d.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.312f30f9.js",
-    "static/js/2.b6d0567d.chunk.js",
-    "static/js/main.df4b7e39.chunk.js"
-  ]
+  "main.js": "/dino-game/static/js/main.fde7e021.chunk.js",
+  "main.js.map": "/dino-game/static/js/main.fde7e021.chunk.js.map",
+  "runtime~main.js": "/dino-game/static/js/runtime~main.f1c74179.js",
+  "runtime~main.js.map": "/dino-game/static/js/runtime~main.f1c74179.js.map",
+  "static/js/2.51ac6db2.chunk.js": "/dino-game/static/js/2.51ac6db2.chunk.js",
+  "static/js/2.51ac6db2.chunk.js.map": "/dino-game/static/js/2.51ac6db2.chunk.js.map",
+  "index.html": "/dino-game/index.html",
+  "precache-manifest.21000ea559f2473e47b306b07fd154fd.js": "/dino-game/precache-manifest.21000ea559f2473e47b306b07fd154fd.js",
+  "service-worker.js": "/dino-game/service-worker.js"
 }
